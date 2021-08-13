@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Web developer in never ending improvement 👨‍💻
+#### Web developer in never ending improvement **Kaizen** 👨‍💻
 
 <!--
 **betoDavila86/betoDavila86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
