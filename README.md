@@ -22,9 +22,6 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoDavila86&layout=compact)](https://github.com/betoDavila86/github-readme-stats)
 
-### 📫 Get in touch:
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 
 <!--
 **betoDavila86/betoDavila86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
