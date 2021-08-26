@@ -13,6 +13,7 @@
 - React
 - NodeJS with Express
 - MongoDB
+(angular)<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-mrtzq&psig=AOvVaw1LG2FlKskHbORg8joolf77&ust=1630067570242000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiuqIbZzvICFQAAAAAdAAAAABAD" height="20"> Angular (basics)
 - PHP (basics)
 - JAVA (basics)
 - SQL (basics)
