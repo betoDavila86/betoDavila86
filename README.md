@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Alberto Dávila
 
 #### Web developer in never ending improvement ⚡**Kaizen**⚡ 👨‍💻
+
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoDavila86)](https://github.com/betoDavila86/github-readme-stats)
 
 <!--
 **betoDavila86/betoDavila86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
