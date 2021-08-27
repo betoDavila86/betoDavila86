@@ -13,7 +13,7 @@
 - React
 - NodeJS with Express
 - MongoDB
-- Angular (basics)
+- Angular (wip....)
 - PHP (basics)
 - JAVA (basics)
 - SQL (basics)
